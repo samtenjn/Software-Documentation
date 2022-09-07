@@ -3,6 +3,9 @@
 
 [Goto Test](#test)
 
+[Goto Test 2](#test-2)
+
+
 The quick brown fox etc.
 
 ## Test
