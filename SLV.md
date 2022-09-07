@@ -3,7 +3,7 @@
 
 [Goto Test](#test)
 
-[Goto Test 2](#test-2)
+[Goto Test 2](#test2)
 
 
 The quick brown fox etc.
@@ -11,8 +11,6 @@ The quick brown fox etc.
 ## Test
 jumped over the lazy brown dog.
 
-## Test 2
+## Test2
+Baa, baa, black sheep
 
-
-
-[Goto Test 2](#Test2)
