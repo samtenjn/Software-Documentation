@@ -52,5 +52,12 @@ Many other companies in the US, Spain, Germany, UK, Japan are working on similar
 
 India also has joined the race to develop these small rockets especially since commercial ventures in launch systems and satellite development became possible since 2020. The Indian Government set up the Indian National Space Promotion and Authorization Centre (IN-SPACe) under the Ministry of Atomic Energy and Space. This new organization will regulate and support private companies’ entry into the space market. Over 60 start-ups have registered their interest with ISRO.
 
-![Rocket size comparison]()
+![Rocket size comparison](Rocket_Size.png)
+
+|Name|Company|Height (m)|Successful launches|Payload to LEO (kg)|
+|:-|:-|-:|:-|:-:|
+|Electron|Rocket Lab, USA|18|29 (cost per launch is 7.5 million US$)|300|
+|Agnibaan|Agnikul Cosmos, India|18|In development|100|
+|Vikram|Skyroot Aerospace, India|20|In development|480|
+|SSLV|ISRO, India|34|1st launch failed to deploy satellites in proper orbit|500|
 
