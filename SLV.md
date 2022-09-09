@@ -52,5 +52,5 @@ Many other companies in the US, Spain, Germany, UK, Japan are working on similar
 
 India also has joined the race to develop these small rockets especially since commercial ventures in launch systems and satellite development became possible since 2020. The Indian Government set up the Indian National Space Promotion and Authorization Centre (IN-SPACe) under the Ministry of Atomic Energy and Space. This new organization will regulate and support private companies’ entry into the space market. Over 60 start-ups have registered their interest with ISRO.
 
-
+![Rocket size comparison]()
 
