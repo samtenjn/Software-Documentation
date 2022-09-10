@@ -13,7 +13,7 @@ August 19, 2022
 
 ### The Age of large rockets
 
-Since the launch of the first satellite by Russia on 4 October 1957, the Sputnik, thousands of satellites, large and small, have been launched. As of February 8, 2022, according to [Earthsky.org](https://Earthsky.org)<sup>[1]</sup> there are around 4,550 satellites orbiting the earth—3,790 in Low Earth Orbit (LEO), 139 in Medium Earth Orbit, and the others at higher orbits. Till recently the rockets and correspondingly the payloads they launched were huge; among the payloads were the Apollo Moon Landers, the International Space Station, the Hubble and Webb telescopes, the Mars Lander and so on. A partial list of currently active large rockets includes<sup>[2]</sup>:
+Since the launch of the first satellite by Russia on 4 October 1957, the Sputnik, thousands of satellites, large and small, have been launched. As of February 8, 2022, according to [Earthsky.org](https://Earthsky.org)<sup>[1]</sup> there are around 4,550 satellites orbiting the earth—3,790 in Low Earth Orbit (LEO), 139 in Medium Earth Orbit, and the others at higher orbits. Till recently the rockets and correspondingly the payloads they launched were huge; among the payloads were the Apollo Moon Landers, the International Space Station, the Hubble and Webb telescopes, the Mars Lander and so on. A partial list of currently active large rockets includes:
 
 |Name|Country|Payload to LEO (kg)|Payload to MEO (kg)|Cost per launch (US$ millions)|Successful launches to date|Since|
 |:-|:-|-:|-:|-:|-:|-|
@@ -37,7 +37,7 @@ Meanwhile miniaturization of electronics has led to the development of small sat
 - often the company that made the small satellite may have to wait a long time for a rocket to become full enough to launch, and 
 - since the rocket is launching many satellites at one time, the small satellite may not be able to achieve the ideal orbit needed for it to be fully effective.
 
-These problems have led to the development of a burgeoning market for small rockets that can deliver small payloads in a cost-effective manner. 
+These problems have led to the development of a burgeoning market for small rockets that can deliver small payloads in a cost-effective manner.<sup>[2]</sup> 
 
 Small satellites weigh less than 500 kg with most in the 10 – 100 kg range. They are used for communication and remote sensing. Many companies including Space X, Amazon, Bharti Airtel, and Tata are planning to launch constellations of satellites to provide cheap internet coverage world- wide. In the US many start-ups have jumped into this new market opportunity. These include:
 
