@@ -13,7 +13,7 @@ August 19, 2022
 
 ### The Age of large rockets
 
-Since the launch of the first satellite by Russia on 4 October 1957, the Sputnik, thousands of satellites, large and small, have been launched. As of February 8, 2022, according to [Earthsky.org](https://Earthsky.org)<sup>1</sup> there are around 4,550 satellites orbiting the earth—3,790 in Low Earth Orbit (LEO), 139 in Medium Earth Orbit, and the others at higher orbits. Till recently the rockets and correspondingly the payloads they launched were huge; among the payloads were the Apollo Moon Landers, the International Space Station, the Hubble and Webb telescopes, the Mars Lander and so on. A partial list of currently active large rockets includes:
+Since the launch of the first satellite by Russia on 4 October 1957, the Sputnik, thousands of satellites, large and small, have been launched. As of February 8, 2022, according to [Earthsky.org](https://Earthsky.org)<sup>[1]</sup> there are around 4,550 satellites orbiting the earth—3,790 in Low Earth Orbit (LEO), 139 in Medium Earth Orbit, and the others at higher orbits. Till recently the rockets and correspondingly the payloads they launched were huge; among the payloads were the Apollo Moon Landers, the International Space Station, the Hubble and Webb telescopes, the Mars Lander and so on. A partial list of currently active large rockets includes<sup>[2]</sup>:
 
 |Name|Country|Payload to LEO (kg)|Payload to MEO (kg)|Cost per launch (US$ millions)|Successful launches to date|Since|
 |:-|:-|-:|-:|-:|-:|-|
@@ -67,22 +67,24 @@ India also has joined the race to develop these small rockets especially since c
 
 ### Top 3 Indian companies
 
-The top 3 Indian private space related companies are:
+The top 3 Indian private space related companies are<sup>[3]</sup>:
 
-1)	Agnikul Cosmos: founded in 2016, the company was incubated at the IIT, Madras and numbers several Professors from IIT as its consultants. The company plans to develop a highly configurable rocket, the Agnibaan, expected to be operational by 2022. In its various configurations the rocket can carry payloads up to 100 kg to LEO (700 km). The company plans to completely 3-D print its rocket engines. (https://www.agnikul.in/)
+1)	Agnikul Cosmos: founded in 2016, the company was incubated at the IIT, Madras and numbers several Professors from IIT as its consultants. The company plans to develop a highly configurable rocket, the Agnibaan, expected to be operational by 2022. In its various configurations the rocket can carry payloads up to 100 kg to LEO (700 km). The company plans to completely 3-D print its rocket engines.  
+(https://www.agnikul.in/)
 
-2)	Skyroot Aerospace: founded in 2018 by former scientists and engineers from ISRO, the company plans to develop the Vikram series of rockets:
-a.	Vikram I – 480 kg to 500 km LEO, 
-b.	Vikram II – 595 kg to 500 km LEO, and 
-c.	Vikram III – 815 kg to 500 km LEO) 
- (https:// https://www.skyroot.in/)
+2)	Skyroot Aerospace: founded in 2018 by former scientists and engineers from ISRO, the company plans to develop the Vikram series of rockets:  
+    a.	Vikram I – 480 kg to 500 km LEO,  
+    b.	Vikram II – 595 kg to 500 km LEO, and  
+    c.	Vikram III – 815 kg to 500 km LEO)  
+(https:// https://www.skyroot.in/)
 
-3)	Pixxel.space: founded in 2019, the company plans to launch 18 satellites in 2023 to provide, in the company’s words, “The world’s highest resolution hyperspectral imaging” that will assist many areas—agriculture, urban planning, mining, environmental impact and protection, and the energy industy among many others.    (https://www.pixxel.space/)
+3)	Pixxel.space: founded in 2019, the company plans to launch 18 satellites in 2023 to provide, in the company’s words, “The world’s highest resolution hyperspectral imaging” that will assist many areas—agriculture, urban planning, mining, environmental impact and protection, and the energy industy among many others.  
+(https://www.pixxel.space/)
 
 ISRO also plans to join in the act by developing the Small Scale Launch Vehicle (SSLV). This rocket is 34 m tall and uses tried and tested solid-fuel technology and can launch up to 500 kg in LEO. Unfortunately, the August 7, 2022 initial launch failed to insert the 2 satellites in the required orbit; the launch was deemed a partial success because all the previous stages of the rocket performed nominally.
 
 ***References:***
 
-earthsky.org/space/who-owns-satellites-company-country, February 8, 2022
-spacedotbiz.substack.com/p/the-launch-landscape-small-rockets, Ian Vorbach, Jun 16, 2021
-equitymaster.com/detail.asp, Top 3 Indian Companies in the Space Race, Jul 19, 2022
+[1] earthsky.org/space/who-owns-satellites-company-country, February 8, 2022  
+[2] spacedotbiz.substack.com/p/the-launch-landscape-small-rockets, Ian Vorbach, Jun 16, 2021  
+[3] equitymaster.com/detail.asp, Top 3 Indian Companies in the Space Race, Jul 19, 2022
